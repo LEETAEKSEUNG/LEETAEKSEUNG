@@ -17,8 +17,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LEETAEKSEUNG&hide=contribs,prs&show_icons=true&theme=graywhite)
 
 <br/><br/>
-<a href="(https://blog.naver.com/programerstart)">
-    <img 
-        src="[https://blog.naver.com/](https://search.pstatic.net/sunny/?src=https%3A%2F%2Fimg1.daumcdn.net%2Fthumb%2FR1280x0.fjpg%2F%3Ffname%3Dhttp%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FdVqV%2Fimage%2F4l80vCwp65SCkeozKC7LSAjS5U8&type=a340)https://search.pstatic.net/sunny/?src=https%3A%2F%2Fimg1.daumcdn.net%2Fthumb%2FR1280x0.fjpg%2F%3Ffname%3Dhttp%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FdVqV%2Fimage%2F4l80vCwp65SCkeozKC7LSAjS5U8&type=a340"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+
