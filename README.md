@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요 👋
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=64aee0&height=300&section=header&text=이택승%20Profile&fontSize=50" />
 
