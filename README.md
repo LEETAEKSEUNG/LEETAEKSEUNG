@@ -19,6 +19,6 @@
 <br/><br/>
 <a href="https://alpox.kr">
     <img 
-        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=[https://alpox.kr](https://blog.naver.com/programerstart)"
+        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=(https://blog.naver.com/programerstart)"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
