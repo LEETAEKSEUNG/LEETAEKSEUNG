@@ -17,4 +17,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LEETAEKSEUNG&hide=contribs,prs&show_icons=true&theme=graywhite)
 
 <br/><br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LEETAEKSEUNG)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LEETAEKSEUNG)]
