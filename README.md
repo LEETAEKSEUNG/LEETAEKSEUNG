@@ -17,8 +17,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LEETAEKSEUNG&hide=contribs,prs&show_icons=true&theme=graywhite)
 
 <br/><br/>
-<a href="https://alpox.kr">
+<a href="(https://blog.naver.com/programerstart)">
     <img 
-        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=(https://blog.naver.com/programerstart)"
+        src="https://blog.naver.com/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
