@@ -1,7 +1,7 @@
 ### 안녕하세요 👋
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=64aee0&height=300&section=header&text=이택승%20Profile&fontSize=50" />
-
+<br/>
 <h1>SKILLs</h1>
 
 ![js](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -13,6 +13,6 @@
 ![js](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![js](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 
-
+</br></br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LEETAEKSEUNG&hide=contribs,prs&show_icons=true&theme=graywhite)
 
