@@ -13,6 +13,8 @@
 ![js](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![js](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 
-</br></br>
+<br/><br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LEETAEKSEUNG&hide=contribs,prs&show_icons=true&theme=graywhite)
 
+<br/><br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LEETAEKSEUNG)](https://github.com/anuraghazra/github-readme-stats)
