@@ -1,6 +1,6 @@
 ### 안녕하세요 👋
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=64aee0&height=300&section=header&text=이택승%20Profile&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=64aee0&height=150&section=header&text=이택승%20Profile&fontSize=50" />
 <br/>
 <h1>SKILLs</h1>
 
